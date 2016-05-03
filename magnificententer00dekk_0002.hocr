@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./magnificententer00dekk_0002.png"; bbox 0 0 1753 2605; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 556 1122 1245 1260">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 556 1122 1245 1260">
+     <span class='ocr_line' id='line_1_1' title="bbox 556 1122 1230 1160; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 556 1127 709 1160; x_wconf 66' lang='grc' dir='ltr'>ΤΗΗ</span> <span class='ocrx_word' id='word_1_2' title='bbox 752 1124 1101 1159; x_wconf 54' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_3' title='bbox 1144 1122 1230 1156; x_wconf 55' lang='grc' dir='ltr'>ΟΡ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 558 1216 1245 1260; baseline -0.006 0"><span class='ocrx_word' id='word_1_4' title='bbox 558 1219 808 1260; x_wconf 63' lang='grc' dir='ltr'>[ὶΑΧἸῦ</span> <span class='ocrx_word' id='word_1_5' title='bbox 845 1218 1008 1258; x_wconf 76' lang='grc' dir='ltr'>ΑΝΙ)</span> <span class='ocrx_word' id='word_1_6' title='bbox 1046 1216 1245 1257; x_wconf 63' lang='lat' dir='ltr'>[ULU</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 559 1318 1248 1369">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 559 1318 1248 1369">
+     <span class='ocr_line' id='line_1_3' title="bbox 559 1318 1248 1369; baseline -0.007 0"><span class='ocrx_word' id='word_1_7' title='bbox 559 1318 1248 1369; x_wconf 75' lang='lat' dir='ltr'>BOROWITZ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1748 2596">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1748 2596">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1748 2596; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1748 2596; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
